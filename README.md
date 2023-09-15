@@ -5,6 +5,10 @@ When photovoltaic modules are in operation, if a single cell within the module e
 
 ## 2023 Dataset Access Instructions:
 
+
+![image](https://github.com/zss313/MHHS-Dataset/blob/main/MHHS.png) 
+
+
 We have constructed the Multi-altitude Hotspot Defect Dataset (MMHS), which contains 9,148 infrared images from photovoltaic power stations across four altitudes. Specifically, there are 1,738 images from 28m, 2,323 images from 35m, 1,820 images from 47m, and 3,222 images from 60m. These images have a resolution of 640×512, and the ground truth hotspots were annotated using the LabelImg tool. Detailed information is provided in the table below:
 
 
@@ -31,4 +35,4 @@ The MHHS-2023 Datasets Request Form is available here.
 
 Note that If you want to download through google disk, please send me your google email.
 
-![image](https://github.com/zss313/MHHS-Dataset/blob/main/MHHS.png) 
+
