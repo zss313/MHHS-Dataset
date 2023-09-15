@@ -10,6 +10,8 @@ We have constructed the Multi-altitude Hotspot Defect Dataset (MMHS), which cont
 
 ![image](https://github.com/zss313/MHHS-Dataset/blob/main/MHHS.png) 
 
+<be />
+
 | MHHS | defective images | defect-free images | Total |
 | :---: | :---: | :---: | :---: |
 | HIR-28m | 783 | 1045 | 1783 |
